@@ -1,6 +1,6 @@
 
   
-- 👋 Olá! Eu sou o Pedro Ramos || Hi, I’m Pedro Ramos
+<h1>👋 Olá! Eu sou o Pedro Ramos || Hi, I’m Pedro Ramos</h1>
 
 - 👀 Eu amo codar, viajar e escutar música! || My favourite hobbies are coding, traveling and listenig to music!
 
