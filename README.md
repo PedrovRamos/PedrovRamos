@@ -1,6 +1,6 @@
 
   
-<h1>👋 Olá! Eu sou o Pedro Ramos || Hi, I’m Pedro Ramos</h1>
+<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50px"> Olá! Eu sou o Pedro Ramos || Hi, I’m Pedro Ramos</h1>
 
 - 👀 Eu amo codar, viajar e escutar música! || My favourite hobbies are coding, traveling and listenig to music!
 
