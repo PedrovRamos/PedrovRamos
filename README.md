@@ -4,7 +4,7 @@
 
 - 👀 Eu amo codar, viajar e escutar música! || My favourite hobbies are coding, traveling and listenig to music!
 
-- 🌱 Ao decorrer do ano de 2022 vou estudar Javascript, Node, MySQL, React, HTML, CSS, Typescript, MongoDB, Docker e Python pela Trybe, escola de phogramação! || During the year 2022 I will study Javascript, Node, MySQL, React, HTML, CSS, Typescript, MongoDB, Docker e Python in Trybe, programming school!
+- 🌱 Ao decorrer do ano de 2022/2023 vou estudar Javascript, Node, MySQL, React, HTML, CSS, Typescript, MongoDB, Docker e Python pela Trybe, escola de phogramação! || During the year 2022 I will study Javascript, Node, MySQL, React, HTML, CSS, Typescript, MongoDB, Docker e Python in Trybe, programming school!
 
 - 📫 Entre em contato comigo via e-mail pvramos.cunha@gmail.com || How to reach me pvramos.cunha@gmail.com
 
